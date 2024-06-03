@@ -1,5 +1,6 @@
-# 食品電商平臺
 
+![2](https://github.com/dicksonchai98/villagepark-vue-project/assets/102925011/dda7d090-1396-40cf-b60b-235c75382406)
+# 食品電商平臺
 這個是我的第一個功能算完整的專案，專案框架為vue，而選擇電商平臺的主要原因是因爲這是轉職前端最基礎的門檻，而這個專案主要搭配pinia做資料管理，firestore auth做登入登出等驗證，而用戶的購物車資料則儲存在local storage。
 ## 目錄
 1. [Features](#Features)
